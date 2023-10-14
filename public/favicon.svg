@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:svgjs="http://svgjs.com/svgjs" width="1134" height="1134">
+	<svg xmlns="http://www.w3.org/2000/svg"
+		xmlns:xlink="http://www.w3.org/1999/xlink" width="1134" height="1134">
+		<rect fill="white" width="1134" height="1134"></rect>
+		<rect width="113.38583" height="226.77167"></rect>
+		<rect x="226.77167" width="113.38583" height="113.38583"></rect>
+		<rect x="453.54333" width="113.38586" height="113.38583"></rect>
+		<rect x="680.31494" width="113.38586" height="113.38583"></rect>
+		<rect x="907.08667" width="113.38586" height="113.38583"></rect>
+		<rect x="226.77167" y="113.38583" width="226.77167" height="113.38583"></rect>
+		<rect x="566.92914" y="113.38583" width="113.3858" height="113.38583"></rect>
+		<rect x="907.08667" y="113.38583" width="226.77173" height="113.38583"></rect>
+		<rect y="226.77167" width="340.15747" height="113.38583"></rect>
+		<rect y="340.15747" width="113.38583" height="226.77167"></rect>
+		<rect x="453.54333" y="340.15747" width="226.77167" height="226.77167"></rect>
+		<rect x="907.08667" y="340.15747" width="226.77173" height="113.38583"></rect>
+		<rect x="226.77167" y="453.54333" width="113.38583" height="113.38586"></rect>
+		<rect y="566.92914" width="226.77167" height="113.3858"></rect>
+		<rect x="566.92914" y="566.92914" width="113.3858" height="113.3858"></rect>
+		<rect x="907.08667" y="566.92914" width="226.77173" height="113.3858"></rect>
+		<rect y="680.31494" width="113.38583" height="113.38586"></rect>
+		<rect x="226.77167" y="680.31494" width="453.54333" height="113.38586"></rect>
+		<rect x="793.70081" y="680.31494" width="226.77167" height="113.38586"></rect>
+		<rect y="793.70081" width="340.15747" height="113.38586"></rect>
+		<rect x="453.54333" y="793.70081" width="113.38586" height="113.38586"></rect>
+		<rect x="680.31494" y="793.70081" width="453.54333" height="113.38586"></rect>
+		<rect y="907.08667" width="226.77167" height="113.38586"></rect>
+		<rect x="340.15747" y="907.08667" width="226.77167" height="113.38586"></rect>
+		<rect x="680.31494" y="907.08667" width="113.38586" height="113.38586"></rect>
+		<rect x="907.08667" y="907.08667" width="113.38586" height="113.38586"></rect>
+		<rect y="1020.4725" width="1133.8583" height="113.38586"></rect>
+	</svg>
+	<style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+	</style>
+</svg>
