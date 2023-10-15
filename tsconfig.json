@@ -45,7 +45,7 @@
     ".next/types/**/*.ts",
     "dist/@bot-ua/www/.next/types/**/*.ts",
     "next-env.d.ts"
-  ],
+, "next.config.mjs"  ],
   "exclude": [
     "node_modules",
     "tmp",
